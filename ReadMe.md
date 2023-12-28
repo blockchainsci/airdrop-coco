@@ -36,4 +36,5 @@ node main.js
 ## 五、执行结果
 执行结果保存在 `drop/时间` 目录下
 
-![效果图]("./effect.jpg")
+效果图如下
+![效果图](./effect.jpg)
